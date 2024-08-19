@@ -48,7 +48,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Farrel Ardya Ghalyndra](https://github.com/arelardya) [REL]
   > As an academician.
 - [Muhammad Zaenal Abidin Abdurrahman](https://github.com/Zendin110206) [ZEN]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [zendin.vercel.app](https://zendin.vercel.app/)
 - [Immanuel Eben Haezer Joseph Aletheia](https://github.com/EintsWaveX) [NUE]
   > As an academician.
 - [Aulia Rahma](https://github.com/pieceofaul) [AUL]
@@ -62,17 +63,29 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Stevannie Pratama](https://github.com/stevanniep) [SNI]
   > As an academician.
 - [Zaidan Abdurrahman Hakim](https://github.com/zaidanah) [DUN]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [https://zaidan.vercel.app/](https://zaidan.vercel.app/)
 - [Radif Putra Permana](https://github.com/radifpm) [RAR]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [https://portofolio-radif.vercel.app/](https://portofolio-radif.vercel.app/)
 - [Muhammad Favian Revaldy](https://github.com/lukarukikato) [FAV]
   > As an academician.
-- [Muhammad Hafiz](https://github.com/tak2hu) [MHZ]
+- [Muhammad Hafiz](https://github.com/mhafiz03) [MHZ]
+  > As an academician.  
+  > Website link -> [mhafiz03.github.io](https://mhafiz03.github.io/)
+- [Wijdan Insania Kuncoro](https://github.com/wijdanmkh-insk) [DAN]
   > As an academician.
 - [Yattaqi Muazirul Mulki](https://github.com/ukiirving) [UKI]
   > As an academician.
 - [Wijdan Insania Kuncoro](https://github.com/wijdanmkh-insk) [DAN]
   > As an academician.
+- [Mohammad Fiqri Firmansyah](https://github.com/TakanashaTaryu) [RYU]
+  > As an academician.
+- [Umar Zaki Gunawan](https://github.com/marzkigun27) [UZY]
+  > As an academician.
+- [Rafhan Mazaya Fathurrahman](https://github.com/fhanyuh) [RAF]
+  > As an academician.  
+  > Website link -> (https://basic-frontend-rose.vercel.app/)
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2024 <br> Building Skills for Tomorrow's Tech Leaders</p>
